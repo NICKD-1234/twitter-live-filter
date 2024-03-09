@@ -16,5 +16,4 @@ The Twitter-Live-Filter-Api is the scalable application which consumes the Twitt
 ## Twitter-Live-Filter-Client
 This is the client application used to graphically display the tweets to the user on a simple ui (as the primary purpose of the project was to demonstrate load balancing). It allows a user to enter keywords which are sent to the Twitter-Live-Filter-Api application. 
 
-![image](https://user-images.githubusercontent.com/62277610/143381564-eb8e733c-0f7c-47f2-8bd8-e74cb7025467.png)
 
